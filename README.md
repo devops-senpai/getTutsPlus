@@ -18,7 +18,7 @@ Usage
 ./getTutsPlus.sh path/to/cookie [coursename-from-url]
 ```
 eg. url: https://tutsplus.com/course/riding-ruby-on-rails/ 
-coursename would be "riding-ruby-on-rails"
+coursename would be "*riding-ruby-on-rails*"
 
 Install Chrome extension [cookie.txt export](https://chrome.google.com/webstore/detail/cookietxt-export/lopabhfecdfhgogdbojmaicoicjekelh "Chrome Extension: cookie.txt export")
 
