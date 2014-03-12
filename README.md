@@ -6,10 +6,12 @@ Rip a tutsplus course with your cookie.
 Requirements
 ===========
 
+```
 brew install wget
 brew install exiftool
 brew tap homebrew/dupes
 brew install tidy
+```
 
 Usage
 ===========
